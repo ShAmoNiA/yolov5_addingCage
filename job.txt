@@ -1,0 +1,6 @@
+min_radius=0,max_radius=0,min_rotation=0,max_rotation=0,min_cageScaling=3.5,max_cageScaling=4,cage=1-2,epoch=80
+min_radius=0,max_radius=1,min_rotation=0,max_rotation=0,min_cageScaling=3,max_cageScaling=4,cage=1-2,epoch=80
+min_radius=0,max_radius=0,min_rotation=-10,max_rotation=10,min_cageScaling=3,max_cageScaling=4,cage=1-2,epoch=80
+min_radius=0,max_radius=1,min_rotation=-10,max_rotation=10,min_cageScaling=3,max_cageScaling=4.5,cage=1-2,epoch=80
+min_radius=0,max_radius=1,min_rotation=-10,max_rotation=10,min_cageScaling=3.5,max_cageScaling=4,cage=1-2,epoch=80
+min_radius=0,max_radius=1,min_rotation=-5,max_rotation=5,min_cageScaling=3,max_cageScaling=4,cage=1-2,epoch=80

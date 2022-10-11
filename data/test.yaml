@@ -1,0 +1,6 @@
+path: /workspace16/Shayan/DataSet/coco
+train: train 
+val: val 
+
+nc: 1
+names: ['birds']  # class names
